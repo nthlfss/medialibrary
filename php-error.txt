@@ -1,0 +1,17 @@
+[05-Mar-2020 23:04:58 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[05-Mar-2020 23:05:02 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[05-Mar-2020 23:05:03 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[05-Mar-2020 23:05:05 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[05-Mar-2020 23:09:41 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[05-Mar-2020 23:09:43 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[06-Mar-2020 15:29:28 UTC] PHP Notice:  Undefined variable: pageTitle in C:\Users\Naty\Documents\sites\inc\header.php on line 3
+[06-Mar-2020 20:38:12 UTC] PHP Notice:  Undefined index: Music in C:\Users\Naty\Documents\sites\catalog.php on line 8
+[06-Mar-2020 20:38:30 UTC] PHP Notice:  Undefined index: music in C:\Users\Naty\Documents\sites\catalog.php on line 8
+[06-Mar-2020 20:38:35 UTC] PHP Notice:  Undefined index: music in C:\Users\Naty\Documents\sites\catalog.php on line 8
+[06-Mar-2020 20:44:12 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in C:\Users\Naty\Documents\sites\catalog.php on line 4
+[09-Mar-2020 15:54:57 UTC] PHP Warning:  include(inc/data.php): failed to open stream: No such file or directory in C:\Users\Naty\Documents\sites\catalog.php on line 2
+[09-Mar-2020 15:54:57 UTC] PHP Warning:  include(): Failed opening 'inc/data.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\Naty\Documents\sites\catalog.php on line 2
+[09-Mar-2020 16:01:59 UTC] PHP Warning:  include(inc/data.php): failed to open stream: No such file or directory in C:\Users\Naty\Documents\sites\catalog.php on line 2
+[09-Mar-2020 16:01:59 UTC] PHP Warning:  include(): Failed opening 'inc/data.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\Naty\Documents\sites\catalog.php on line 2
+[09-Mar-2020 16:02:01 UTC] PHP Warning:  include(inc/data.php): failed to open stream: No such file or directory in C:\Users\Naty\Documents\sites\catalog.php on line 2
+[09-Mar-2020 16:02:01 UTC] PHP Warning:  include(): Failed opening 'inc/data.php' for inclusion (include_path='.;C:\php\pear') in C:\Users\Naty\Documents\sites\catalog.php on line 2
